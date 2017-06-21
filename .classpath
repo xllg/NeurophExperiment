@@ -6,6 +6,5 @@
 	<classpathentry kind="lib" path="lib/neuroph-imgrec-2.7.jar"/>
 	<classpathentry kind="lib" path="lib/neuroph-ocr-2.7.jar"/>
 	<classpathentry kind="lib" path="lib/neuroph-samples-2.7.jar"/>
-	<classpathentry kind="lib" path="lib/junit-4.8.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
